@@ -1,5 +1,5 @@
 
-#  <h1 align="center" >PiSmartHome</h1>
+#  <h1 align="center" >IOT Smart Home</h1>
 
 ## Smart Home using Raspberry pi
 
