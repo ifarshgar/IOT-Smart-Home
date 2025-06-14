@@ -21,7 +21,6 @@
 
 <img src="https://github.com/ifarshgar/IOT-Smart-Home/blob/master/IMAGE%202025-06-14%2011%3A58%3A27.jpg" />
 
-
  
 ## picture of interface :
 
