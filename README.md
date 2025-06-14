@@ -16,6 +16,19 @@
 >   * Sending camera picture to you , when your not home and someone push doorbell
 >   * have secret key to open door with 3buttons pattern
 
+## Pictures of the hardware: 
+<img src="https://github.com/ifarshgar/IOT-Smart-Home/blob/master/IMAGE%202025-06-14%2011%3A57%3A59.jpg" />
+
+<img src="https://github.com/ifarshgar/IOT-Smart-Home/blob/master/IMAGE%202025-06-14%2011%3A58%3A09.jpg" />
+
+<img src="https://github.com/ifarshgar/IOT-Smart-Home/blob/master/IMAGE%202025-06-14%2011%3A58%3A18.jpg" />
+
+<img src="https://github.com/ifarshgar/IOT-Smart-Home/blob/master/IMAGE%202025-06-14%2011%3A58%3A27.jpg" />
+
+<img src="https://github.com/ifarshgar/IOT-Smart-Home/blob/master/IMAGE%202025-06-14%2011%3A57%3A59.jpg" />
+
+<img src="https://github.com/ifarshgar/IOT-Smart-Home/blob/master/IMAGE%202025-06-14%2011%3A58%3A33.jpg" />
+
  
 ## picture of interface :
 
